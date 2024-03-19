@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+
+    border-radius: 10%;
+
+}
+
+button{
+    background-color: green;
+    color: white;
+}
